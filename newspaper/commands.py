@@ -1,3 +1,4 @@
+# Команды по заданию
 # Создать двух пользователей (с помощью метода User.objects.create_user).
 
 user1 = User.objects.create(username='Tim', first_name='Tim')
